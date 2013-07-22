@@ -4,6 +4,12 @@ coverage
 # rdoc generated
 rdoc
 
+# IDE and tools files
+
+.idea
+.bundle
+.rvmrc
+
 # yard generated
 doc
 .yardoc
